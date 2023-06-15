@@ -1,0 +1,78 @@
+*{
+    font-family:  'Montserrat';
+
+    
+}
+
+body{
+    background-color: #f1fbff;
+}
+
+.section-padding{
+    padding: 10px 0;
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption{
+    bottom: 20px;
+}
+.carousel-caption h5{
+font-size: 45px;
+}
+.carousel-caption p{
+    font-size: 25px;
+    }
+    .template-card .details {
+        padding: 40px;
+        border-left: 1px solid #eee;
+    }
+    
+
+    .image-about{
+    max-width:325px; max-height:400px;
+    }
+
+    .my-radius{
+        border-radius: 2%;
+    }
+    .template-card {
+        transition: .3s ease-in-out; 
+        height: 80%;
+        background: #fff;
+        border-radius: 10px;
+        overflow: hidden;
+        margin-top: 5%;
+
+        border: 1px solid #eee;
+    }
+    .template-card .buttons {
+        /* position: relative;
+        z-index: 2; */
+    }
+    .template-card .buttons a.download {
+        margin-left: 2%;
+    }
+    .template-card .buttons a {
+       display: inline-flex;
+       text-decoration: none;
+
+        padding: 10px 30px;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: .3px;
+        border-radius: 4px;
+        color: #023b6d;
+        border: 1px solid #cfd4e4;
+    }
+    .template-card h4 a {
+        color: #035195;
+        text-decoration: none;
+
+    }
+    .gy-5 {
+        --bs-gutter-y: 3rem;
+    }
